@@ -1,9 +1,10 @@
 {
-  "version": "1.1.0",
-  "download_url": "https://drive.google.com/drive/folders/1iVWNZa7qFlWjMekih3lWVBMYzySqsDsw?usp=sharing",
-  "message": "ADD HANDLE VERIFY FACEBOOK OLD, ADD CHECK LIVE UID, ADD SELECT APK ON DEVICE, FIX UI",
+  "version": "1.2.0",
+  "download_url": "https://drive.google.com/drive/folders/1cf6RygPOX8tGgrkjRWQF7bltWLlQIE5a?usp=sharing",
+  "message": "ADD REGISTER WITH PHONE NUMBER ( note: For phone number not yet support with Verify Novery! )",
   "force_update": false
 }
+
 
 
 
