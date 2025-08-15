@@ -1,6 +1,7 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "download_url": "https://drive.google.com/drive/folders/1G1JHCFeawuFLXfzenD3eyc9g16QmLm24?usp=sharing",
   "message": "- FIX INPUT AGE\n- FIX LICENSE KEY\n- ADD REGISTER NOVERY ON CHROME",
   "force_update": false
 }
+
