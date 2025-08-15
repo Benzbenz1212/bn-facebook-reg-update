@@ -1,10 +1,6 @@
 {
   "version": "1.2.0",
-  "download_url": "https://drive.google.com/drive/folders/1cf6RygPOX8tGgrkjRWQF7bltWLlQIE5a?usp=sharing",
-  "message": "ADD REGISTER WITH PHONE NUMBER ( note: For phone number not yet support with Verify Novery! )",
+  "download_url": "https://drive.google.com/drive/folders/1G1JHCFeawuFLXfzenD3eyc9g16QmLm24?usp=sharing",
+  "message": "- FIX INPUT AGE\n- FIX LICENSE KEY\n- ADD REGISTER NOVERY ON CHROME",
   "force_update": false
 }
-
-
-
-
