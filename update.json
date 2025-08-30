@@ -1,9 +1,10 @@
 {
-  "version": "1.4.0",
-  "download_url": "https://drive.google.com/drive/folders/1nOLp6RxwPp0Gr_zKBoIcjjaKpkYaCGtm?usp=sharing",
-  "message": "- 🔨FIX SOME ERROR\n- ✅ADD NEW FUNCTIONS ON DEVICE/ACCOUNT\n- ✅ADD RESTORE BACKUP ACCOUNTS",
+  "version": "1.5.0",
+  "download_url": "https://drive.google.com/drive/folders/10qohJhq-joAILjsaQYy7EUi0NmeRzg2Q?usp=sharing",
+  "message": "- ✅ADD SUPPORT DEVICE PHONE\n- ✅ADD MENU PHONE",
   "force_update": false
 }
+
 
 
 
